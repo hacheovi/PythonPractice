@@ -1,3 +1,4 @@
 #PRÁCTICA PYTHON
 
 Desarrollo de las prácticas finales del módulo de programación desde cero.
+Perteneciente a los módulos transversales.
